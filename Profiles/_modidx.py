@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://civildot.github.io',
                 'git_url': 'https://github.com/civildot/Profiles',
                 'lib_path': 'Profiles'},
-  'syms': {'Profiles.core': {'Profiles.core.foo': ('core.html#foo', 'Profiles/core.py')}}}
+  'syms': { 'Profiles.profiles': { 'Profiles.profiles.profile': ('profiles.html#profile', 'Profiles/profiles.py'),
+                                   'Profiles.profiles.submodel_gis': ('profiles.html#submodel_gis', 'Profiles/profiles.py')}}}
