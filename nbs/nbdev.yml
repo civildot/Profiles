@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Profiles"
+  site-url: "https://civildot.github.io/Profiles"
+  description: "Generate profile plots and data from lines and terrain"
+  repo-branch: main
+  repo-url: "https://github.com/civildot/Profiles"
